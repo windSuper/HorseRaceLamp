@@ -1,3 +1,3 @@
 # HorseRaceLamp
-swift  HorseRaceLamp
-![image](https://github.com/windSuper/HorseRaceLamp/raw/master/image/HorseRaceLamp.gif)
+swift  HorseRaceLamp\n
+![image](https://github.com/windSuper/HorseRaceLamp/image/HorseRaceLamp.gif)
